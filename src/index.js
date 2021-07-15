@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import 'tachyons';
 
 import reportWebVitals from './reportWebVitals';
-import App from './App';
+import App from './containers/App';
 import './index.css';
 
 
