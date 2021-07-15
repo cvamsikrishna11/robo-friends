@@ -15,3 +15,6 @@ Simple react app to understand
 
 
 ### website : https://cvamsikrishna11.github.io/robo-friends/
+
+
+Doc to deploy to github-pages: https://create-react-app.dev/docs/deployment/#github-pages-https-pagesgithubcom
