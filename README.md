@@ -14,11 +14,4 @@ Simple react app to understand
  3. Run `npm start` to run the project
 
 
-### Screens
-<table>
-  <tr>
-    <td><img src="./screens/1.PNG" width=270 height=400></td>
-    <td><img src="./screens/2.PNG" width=270 height=400></td>
-    <td><img src="./screens/3.PNG" width=270 height=400></td>   
-  </tr>
- </table>
+### website : https://cvamsikrishna11.github.io/robo-friends/
